@@ -83,7 +83,7 @@ class SmartBlogAddThisButton extends Module {
                     'title' => $this->l('Settings'),
                     'icon' => 'icon-cogs'
                 ),
-                'description' => $this->l('To add products to your homepage, simply add them to the root product category (default: "Home").'),
+                'description' => $this->l('Add Your own addship publisher id to track your blog post status.'),
                 'input' => array(
                     array(
                         'type' => 'text',
