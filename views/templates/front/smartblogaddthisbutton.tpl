@@ -1,9 +1,12 @@
-<script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e7280075406aa87" type="text/javascript"></script>
-<script type="text/javascript" src="http://ct1.addthis.com/static/r07/core122.js"></script>
-<div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-<a class="addthis_button_tweet"></a>
-<a class="addthis_button_pinterest_pinit" pi:pinit:layout="horizontal"></a>
-<a class="addthis_counter addthis_pill_style"></a>
-</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-{$addthis_api_key}"></script>
 
+<div class="addthis_toolbox addthis_default_style addthis_20x20_style">
+    <a class="addthis_counter_facebook"></a>
+    <a class="addthis_counter_twitter"></a>
+    <a class="addthis_counter_pinterest_share"></a>
+    <a class="addthis_counter_reddit"></a>
+    <a class="addthis_counter_linkedin"></a>   
+ 	<a class="addthis_counter addthis_pill_style"></a>
+</div>
+ 
